@@ -6,17 +6,6 @@
    },
    "main": "lib/index.js",
    "types": "lib/index.d.ts",
-   "files": [
-      "bin",
-      "types",
-      "*.js",
-      "api",
-      "lib",
-      "loaders",
-      "commands",
-      "utils",
-      "setup"
-   ],
    "scripts": {
       "build": "tsc --build",
       "test": "jest --passWithNoTests"
